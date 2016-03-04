@@ -2,4 +2,4 @@
 
 Welcome to the API documentation for Pyblish.
 
-Choose a version of the library you would like to explore to the left.
+Choose a version of the library you would like to explore to the left. Changes
