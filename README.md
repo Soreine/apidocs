@@ -2,7 +2,7 @@
 
 Welcome to the API documentation for Pyblish.
 
-This section contains a listing of available classes, functions and attributes via `pyblish.api`.
+This section contains a listing of available classes, functions and attributes via `pyblish.api`. Changes
 
 ```python
 >>> import pyblish.api
